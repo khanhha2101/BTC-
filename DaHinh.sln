@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DaHinh", "DaHinh\DaHinh.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Struct", "Struct\Struct.csproj", "{8FC385B5-E9D9-4705-BEAC-079450CEC550}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTDD10-5", "BTDD10-5\BTDD10-5.csproj", "{0B930119-24EB-4095-BBF0-24D31CB88D0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTDD26-4", "BTDD26-4\BTDD26-4.csproj", "{0DBC71B0-6212-4357-857E-2EC553A8C99D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{8FC385B5-E9D9-4705-BEAC-079450CEC550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8FC385B5-E9D9-4705-BEAC-079450CEC550}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8FC385B5-E9D9-4705-BEAC-079450CEC550}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B930119-24EB-4095-BBF0-24D31CB88D0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B930119-24EB-4095-BBF0-24D31CB88D0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B930119-24EB-4095-BBF0-24D31CB88D0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B930119-24EB-4095-BBF0-24D31CB88D0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DBC71B0-6212-4357-857E-2EC553A8C99D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DBC71B0-6212-4357-857E-2EC553A8C99D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DBC71B0-6212-4357-857E-2EC553A8C99D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DBC71B0-6212-4357-857E-2EC553A8C99D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
