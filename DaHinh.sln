@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHoDanCu", "QuanLyHoDa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap01_9033", "lap01_9033\lap01_9033.csproj", "{51294923-FCBB-4D07-B2B8-95E135EDA579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap02_2842", "lap02_2842\lap02_2842.csproj", "{53546728-8159-40FE-B2A3-77D8884C2767}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53546728-8159-40FE-B2A3-77D8884C2767}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53546728-8159-40FE-B2A3-77D8884C2767}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53546728-8159-40FE-B2A3-77D8884C2767}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53546728-8159-40FE-B2A3-77D8884C2767}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
