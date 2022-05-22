@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaiTap70", "BaiTap70\BaiTap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuanLyHoDanCu", "QuanLyHoDanCu\QuanLyHoDanCu.csproj", "{F81732ED-C442-4EB4-8F35-0C0278B1B8AF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lap01_9033", "lap01_9033\lap01_9033.csproj", "{51294923-FCBB-4D07-B2B8-95E135EDA579}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{F81732ED-C442-4EB4-8F35-0C0278B1B8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F81732ED-C442-4EB4-8F35-0C0278B1B8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F81732ED-C442-4EB4-8F35-0C0278B1B8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51294923-FCBB-4D07-B2B8-95E135EDA579}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
