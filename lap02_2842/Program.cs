@@ -10,6 +10,11 @@ namespace lap02_2842
     {
         static void Main(string[] args)
         {
+            BookList list = new BookList();
+            list.add();
+            list.show();
+
+            Console.ReadLine();
         }
     }
 }
